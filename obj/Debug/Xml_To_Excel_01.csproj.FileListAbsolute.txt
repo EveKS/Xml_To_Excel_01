@@ -1,0 +1,6 @@
+c:\users\eveks\documents\visual studio 2015\Projects\Xml_To_Excel\Xml_To_Excel_01\bin\Debug\Xml_To_Excel_01.exe.config
+c:\users\eveks\documents\visual studio 2015\Projects\Xml_To_Excel\Xml_To_Excel_01\bin\Debug\Xml_To_Excel_01.exe
+c:\users\eveks\documents\visual studio 2015\Projects\Xml_To_Excel\Xml_To_Excel_01\bin\Debug\Xml_To_Excel_01.pdb
+c:\users\eveks\documents\visual studio 2015\Projects\Xml_To_Excel\Xml_To_Excel_01\obj\Debug\Xml_To_Excel_01.csprojResolveAssemblyReference.cache
+c:\users\eveks\documents\visual studio 2015\Projects\Xml_To_Excel\Xml_To_Excel_01\obj\Debug\Xml_To_Excel_01.exe
+c:\users\eveks\documents\visual studio 2015\Projects\Xml_To_Excel\Xml_To_Excel_01\obj\Debug\Xml_To_Excel_01.pdb
